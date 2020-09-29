@@ -200,7 +200,7 @@ strong {
 }
 
 .introduction .img-fluid {
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 
 .introduction h2 {
@@ -216,6 +216,14 @@ strong {
 }
 
 .introduction p {
+  padding-top: 40px;
+  font-size: 18px;
+}
+
+.introduction .caption {
+  padding-bottom: 15px;
+  text-align: center;
+  color: gray;
   font-size: 18px;
 }
 
